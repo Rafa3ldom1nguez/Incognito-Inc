@@ -1,5 +1,3 @@
-#Anthony Rafael Dominguez Arriola 
-#Carne: 1639523 
 import os
 
 mi_ubicacion = os.getcwd()
